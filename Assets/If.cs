@@ -20,7 +20,10 @@ public class If : MonoBehaviour
         Debug.Log("Spawn");
     }
 
-   
+   void notSpawn()
+    {
+        Debug.Log("notSpawn");
+    }
 
 
 
